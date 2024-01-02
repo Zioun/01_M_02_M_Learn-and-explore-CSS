@@ -1,0 +1,40 @@
+/* task 1 */
+.p-three{
+    color: #ffffff;
+    background-color: #301360;
+    padding: 20px;
+}
+/* task 2 */
+ul{
+    padding: 20px;
+}
+ul li{
+    color: chocolate;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 800;
+}
+/* task 3 */
+*{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+.one, .two, .three, .four, .five{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    background-color: cadetblue;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
